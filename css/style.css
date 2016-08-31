@@ -1,0 +1,14 @@
+.form-container {
+    margin-top: 100px;
+}
+.total-time{
+    padding-top: 10px;
+}
+.btn-size {
+    width: 30px;
+}
+
+*:disabled {
+    background-color: #cccccc !important;
+    border: none !important;
+}
