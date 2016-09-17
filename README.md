@@ -4,7 +4,7 @@ This web application helps you to monitor what you did for how long. Sometimes i
 <img src="screenshots/home.png" alt="screenshot"/>
 
 <h2>Demo</h2>
- Deployed on heruku for demonstration purpose. find Demo <a href="https://time-traker.herokuapp.com/ target="_blank"> here</a>
+Deployed on Heroku for the demonstration purpose. Find Demo <a href="https://time-traker.herokuapp.com/ target="_blank"> here</a>
  
 <h2>Features</h2>
 <ul>
