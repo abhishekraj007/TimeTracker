@@ -4,8 +4,8 @@ This web application helps you to monitor what you did for how long. Sometimes i
 <img src="screenshots/home.png" alt="screenshot"/>
 
 <h2>Demo</h2>
- Demo of this app is available <a href="https://time-traker.herokuapp.com/ target="_blank"> here</a><br>
-
+ Deployed on heruku for demonstration purpose. find Demo <a href="https://time-traker.herokuapp.com/ target="_blank"> here</a>
+ 
 <h2>Features</h2>
 <ul>
 <li> Add, stop, delete and restore tasks without reloading pages. </li>
