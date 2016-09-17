@@ -1,5 +1,5 @@
 # Time Tracker
-This web application helps you to monitor what you did for how long. Sometime its cumbersome to track the exact time you invested in a particular project. This app solve this problem. You can add many task as you get involved in.
+This web application helps you to monitor what you did for how long. Sometimes it's cumbersome to track the exact time you invested in a particular project. This app solves this problem. You can add many tasks as you get involved in.
 
 <img src="screenshots/home.png" alt="screenshot"/>
 
