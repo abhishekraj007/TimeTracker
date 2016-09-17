@@ -1,8 +1,10 @@
 # Time Tracker
-This web application helps you to monitor what you did for how long. Sometimes it's cumbersome to track the exact time you invested in a particular project. This app solves this problem. You can add many tasks as you get involved in. Find demo <a href="https://time-traker.herokuapp.com/ target="_blank">here</a>
+This web application helps you to monitor what you did for how long. Sometimes it's cumbersome to track the exact time you invested in a particular project. This app solves this problem. You can add many tasks as you get involved in.
 
 <img src="screenshots/home.png" alt="screenshot"/>
 
+<h2>Demo</h2>
+ Demo of this app is available <a href="https://time-traker.herokuapp.com/ target="_blank"> here</a><br>
 
 <h2>Features</h2>
 <ul>
